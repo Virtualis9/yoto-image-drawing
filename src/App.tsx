@@ -7,6 +7,7 @@ import { useRef, useState } from "react"
  *  Fix export
  *  Fix export preview (90% rotated for some reason)
  *  Add semi decent toolbars for colors / modes etc ... 
+ *  Added this comment to show i can use Git..well try..
  */
 
 
